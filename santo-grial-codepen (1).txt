@@ -1,0 +1,125 @@
+Medidas
+Medida hero mobile 480x720
+
+
+Scroll To Top Then Fixed Navigation Effect With jQuery and CSS
+https://codepen.io/atelierbram/pen/dMEadR
+
+Rocket Back to top button
+https://codepen.io/Askwithloud/pen/yNRPWB
+
+Scroll to top button - Bootstrap 4 with Font Awesome 5
+https://codepen.io/michalwyrwa/pen/GBaPPj
+
+Overlapping DIVs 2
+https://codepen.io/artistarj/pen/bGdzemK
+https://codepen.io/mbchoa/pen/rNxMpQO
+https://codepen.io/Web_Cifar/pen/dyXNVep
+
+Overlapping chido
+https://codepen.io/brianhaferkamp/pen/WBBwjg
+
+Multiple versiones jquery
+https://stackoverflow.com/questions/1566595/can-i-use-multiple-versions-of-jquery-on-the-same-page
+
+Slider gallery Lightbox
+https://codepen.io/everaldodesigner/pen/PEzNEW
+
+Responsive grid gallery
+https://codepen.io/laviperchik/pen/XjgRko
+
+Responsive Hero Image in CSS (Overlay + vw)
+https://codepen.io/macbubb/pen/bOmpdm
+
+Bootstrap Carousel Fullscreen
+https://codepen.io/SitePoint/pen/ZbGwqe
+
+Responsive Video Header with Gradient
+https://codepen.io/Reklino/pen/LVZwmj
+
+Personal Portfolio
+https://codepen.io/duruyoungcr/pen/oNbXxLj
+
+clases para ocultar bootstrap
+https://www.codeply.com/go/bRlHp8MxtJ
+
+Accessible off-canvas grid gallery
+https://codepen.io/joe-watkins/pen/RPZbrW
+
+Grid gallery lightbox with filters 
+https://codepen.io/plloyd11/pen/xdKzyB
+
+Responsive Bootstrap Columns and Rows
+https://codepen.io/chris_cook/pen/qNxAXy
+
+Cool shooth slider
+https://codepen.io/HendyDesigns/pen/wvwJQmM
+
+Social Media Icons
+https://codepen.io/Marty-Development/pen/qBOgXPL
+
+Bootstrap 4 Invoice Template
+https://codepen.io/daplo/pen/xYVQPz
+
+Floting WhatsApp Button Generator
+https://codepen.io/JackTheKiller/pen/eYpoowE
+
+material-ripple with child span
+https://codepen.io/leonardo-fernandes/pen/aGLpVy
+
+Material Design Ripple Effect
+https://codepen.io/BretCameron/pen/mdPMVaW
+
+Hide/Show Password Login Form
+https://codepen.io/geoffreyrose/pen/HKDkB
+
+Text Input with Expanding Bottom Border
+https://css-tricks.com/text-input-expanding-bottom-border/
+
+animated input border bottom
+https://codepen.io/leogono/pen/EPeVgz
+
+Bootstrap 4 input with an icon
+https://www.codeply.com/go/ioPsDfyCBc
+
+Restaurant menu with follow along highlighter
+https://codepen.io/scharan/pen/mqjLrz
+
+Restrict pass and future dates in HTML5 date input
+https://codepen.io/i115inside/pen/ExWgJRm
+
+CSS Background
+https://www.tutorialrepublic.com/css-tutorial/css-background.php
+
+The Best Looking CSS Animated Background Examples
+https://www.sliderrevolution.com/resources/css-animated-background/
+
+Particles background using Particles.js
+https://codepen.io/akey96/pen/oNgeQYX
+
+Airplanes animation
+https://codepen.io/ste-vg/pen/GRooLza
+
+Hamburger + sidemenu + Navbar
+https://bootsnipp.com/snippets/bxK8W
+
+Image hover effect grid
+https://miketricking.github.io/bootstrap-image-hover/
+
+CSS Grid Template Builder
+https://codepen.io/anthonydugois/pen/RpYBmy
+
+CSS Grid album with nice hover effect
+https://codepen.io/AleksandarCizmadija/pen/vabboM
+
+Splitting: Image Hover Gallery
+https://codepen.io/shshaw/pen/RyOPzb
+
+CSS image hover effects
+https://codepen.io/nxworld/pen/ZYNOBZ?editors=1100
+
+Logos de marcas en alta calidad
+https://1000marcas.net/
+
+OWL SLIDER
+https://codepen.io/jayadul/pen/BaBwprq?editors=0110
